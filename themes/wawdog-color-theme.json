@@ -168,7 +168,7 @@
         "meta.brace"
       ],
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#e7e7e7"
       }
     },
     {
@@ -264,7 +264,7 @@
         "variable.other.block"
       ],
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#e7e7e7"
       }
     },
     {
@@ -310,7 +310,7 @@
       "name": "Function call",
       "scope": "entity.name.function-call",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#e7e7e7"
       }
     },
     {
@@ -383,7 +383,7 @@
         "support.type.property-name.sass"
       ],
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#e7e7e7"
       }
     },
     {
@@ -619,7 +619,19 @@
         "fontStyle": "bold",
         "foreground": "#e7e7e7"
       }
+    },
+    {
+      "scope": "meta.object-literal.key",
+      "settings": {
+          "foreground": "#e7e7e7"
+      }
+   },
+   {
+    "scope": "variable.other.readwrite.alias",
+    "settings": {
+        "foreground": "#e7e7e7"
     }
+}
   ]
 
 }
