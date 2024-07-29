@@ -3,9 +3,23 @@
   "displayName": "Wawdog Drak Theme",
   "description": "This theme is inspired by the Rainglow-hub-contrast and One Monokai theme.",
   "version": "0.0.1",
+  "publisher": "wawdogdev",
+  "icon": "icon.jpg",
   "engines": {
     "vscode": "^1.91.0"
   },
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/wawdog/vscode-wawdog-dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "wawdog",
+        "wawdog dev",
+        "waw dark theme",
+        "wawdog dark"
+    ],
   "categories": [
     "Themes"
   ],
