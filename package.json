@@ -2,7 +2,7 @@
   "name": "wawdog-dark-theme",
   "displayName": "Wawdog Drak Theme",
   "description": "This theme is inspired by the Rainglow-hub-contrast and One Monokai theme.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "wawdogdev",
   "icon": "icon.jpg",
   "engines": {
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "wawdog",
+        "label": "Wawdog Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/wawdog-color-theme.json"
       }

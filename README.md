@@ -1,7 +1,5 @@
 # README
 
-## Working with Markdown
-
 This theme is inspired by the Rainglow-hub-contrast and One Monokai theme.
 
 ## Screenshots
